@@ -2,6 +2,9 @@
 ### Project Overview
 
 I have used the Online Retail data set. [[1]](https://www.kaggle.com/datasets/tunguz/online-retail) Preprocess and clean the data and applied K Means Clustering algorithm for the segmentation. 
+Link to Project:
+Kaggle: https://www.kaggle.com/code/phuong731999/rfm-segmentation
+
 
 ### What is RFM Segmentation?
 
