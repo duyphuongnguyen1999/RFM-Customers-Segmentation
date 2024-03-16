@@ -15,9 +15,7 @@ RFM segmentation allows marketers to target specific clusters of customers with 
 
 ### Project Overview
 
-I have used the Online Retail data set. [[2]](https://www.kaggle.com/datasets/tunguz/online-retail)
-
-Preprocess and clean the data and applied K Means Clustering algorithm for the segmentation.   
+I have used the Online Retail data set. [[2]](https://www.kaggle.com/datasets/tunguz/online-retail) Preprocess and clean the data and applied K Means Clustering algorithm for the segmentation.   
 
 **Champions:** They are the champions
 
