@@ -1,12 +1,7 @@
 # RFM Segmentation
 ### Project Overview
 
-I have used the Online Retail data set. [[1]](https://www.kaggle.com/datasets/tunguz/online-retail) 
-
-Preprocess and clean the data and applied K Means Clustering algorithm for the segmentation. 
-
-Customers are segment into 10 clusters, base on RFM value.
-
+I have used the Online Retail data set. [[1]](https://www.kaggle.com/datasets/tunguz/online-retail) Preprocess and clean the data and applied K Means Clustering algorithm for the segmentation. 
 
 ### What is RFM Segmentation?
 
@@ -20,7 +15,8 @@ RFM segmentation allows marketers to target specific clusters of customers with 
 
 **Monetary:** Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time. Big spenders should usually be treated differently than customers who spend little. Looking at monetary divided by frequency indicates the average purchase amount – an important secondary factor to consider when segmenting customers. [[2]](https://www.optimove.com/resources/learning-center/rfm-segmentation)
   
-### Customers are split into Clusters
+### Clusters
+Customers are segment into 10 clusters, base on RFM values.
 
 - **Champions:** They are the champions
 
