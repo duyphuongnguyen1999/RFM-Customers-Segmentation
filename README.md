@@ -8,25 +8,6 @@ Preprocess and clean the data and applied K Means Clustering algorithm for the s
 
 Customers are segment into 10 clusters, base on RFM value.
 
-**Champions:** They are the champions
-
-**Loyal customer:** Up-sell higher value products
-
-**Promising Customer:** Customer with good monetary, frequency and less recency. Recommend other products. Engage in loyalty programs.
-
-**Potential Loyalist:** Up-sell lower value products
-
-**At Risk:** Have good frequency but awys from long days. Send personalised email or other messages to reconnect. Provide good offers and share valuable resources.
-
-**Can't lose them:**  Seasonal Buyer with higher monetary. Win them back. Talk to them. Make them special offers. Make them feel valuable
-
-**Needs Attention:** Away from long time. Help them to get back
-
-**Needs Awareness:** Create brand awareness and help them to get back
-
-**About to Sleep:** Reactivate them. Share valuable resources. Recommend popular products. Offer discounts.
-
-**Hibernating:** they are losing, promote to get them back.
 
 ### What is RFM Segmentation?
 
@@ -40,6 +21,27 @@ RFM segmentation allows marketers to target specific clusters of customers with 
 
 **Monetary:** Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time. Big spenders should usually be treated differently than customers who spend little. Looking at monetary divided by frequency indicates the average purchase amount – an important secondary factor to consider when segmenting customers. [[2]](https://www.optimove.com/resources/learning-center/rfm-segmentation)
   
+### Customers are split into Clusters
+
+- **Champions:** They are the champions
+
+- **Loyal customer:** Up-sell higher value products
+
+- **Promising Customer:** Customer with good monetary, frequency and less recency. Recommend other products. Engage in loyalty programs.
+
+- **Potential Loyalist:** Up-sell lower value products
+
+- **At Risk:** Have good frequency but awys from long days. Send personalised email or other messages to reconnect. Provide good offers and share valuable resources.
+
+- **Can't lose them:**  Seasonal Buyer with higher monetary. Win them back. Talk to them. Make them special offers. Make them feel valuable
+
+- **Needs Attention:** Away from long time. Help them to get back
+
+- **Needs Awareness:** Create brand awareness and help them to get back
+
+- **About to Sleep:** Reactivate them. Share valuable resources. Recommend popular products. Offer discounts.
+
+- **Hibernating:** they are losing, promote to get them back.
 
 
 =======
